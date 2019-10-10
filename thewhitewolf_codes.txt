@@ -1,0 +1,16 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main()
+{
+	int a,b;
+	cin>>a;
+	if(a%2==0)
+	{
+ 		cout<<"Even";
+	}
+	else
+	{
+		cout<<"Odd";	 	
+	}
+cout<<"Okay now go away";
